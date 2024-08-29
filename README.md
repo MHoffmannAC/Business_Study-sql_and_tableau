@@ -42,14 +42,34 @@ To address these concerns, this project involved data exploration using MySQL Wo
 
 -----
 
+## How to Use the Files
+
+1. **Review the Presentation**:
+   - Open `Business_presentation.pdf` to gain a comprehensive overview of the analysis, insights, and recommendations. This presentation serves as the primary document summarizing the project's findings.
+
+2. **Explore the Data Visualizations**:
+   - Open the `Business-Study_Tableau-plots.twbx` file in Tableau to interact with the visualizations. This file allows you to explore the data in more detail, including regional sales distributions and delivery time analyses.
+
+3. **Examine the SQL Queries**:
+   - Review the `1-basic-sql-queries.sql` and `2-business-questions.sql` files to understand the SQL queries used for data extraction and analysis. This file provides the foundation for the insights and visualizations created in the project.
+-----
+
 ## Summary of Key Insights
 
-- **Product Fit**: The analysis explored whether Eniac's Apple-compatible accessories would be successful in Brazilian marketplaces, given the region's specific consumer preferences and market conditions. The findings indicated that while there is some alignment between Magist's product categories and Eniac’s offerings, the overall market for high-end tech products remains uncertain. This is particularly relevant considering Magist’s focus on connecting smaller stores, which may not cater primarily to high-end tech buyers.
+- **Growth Potential**: Brazil’s eCommerce market is rapidly expanding, with revenue expected to more than double by 2024, making it a promising yet challenging market for Eniac’s entry.
 
-- **Sales Distribution**: The data showed that Magist's sales are concentrated in major economic regions like São Paulo, Rio de Janeiro, and Minas Gerais, where consumer purchasing power is higher. However, sales are notably lower in the northern regions of Brazil, where lower average incomes and logistical challenges could hinder Eniac's success. This geographic disparity could affect the scalability of Eniac's business model in Brazil.
+- **Product-Market Fit**: Eniac’s high-end Apple-compatible accessories may not align perfectly with the typical product offerings on Magist’s connected marketplaces.
 
-- **Delivery Performance**: The project assessed delivery times across various regions in Brazil, evaluating whether Magist's logistics network could meet Eniac’s standards for fast and reliable deliveries. While delivery times in major cities are acceptable (in the order of 1 week), delivery to more remote areas, especially in the north, can take up to 4 weeks. This could be a significant drawback for Eniac, where fast delivery is a key component of customer satisfaction. The observed delivery times, however, represent well the typical times of competitors and the overall postal system in Brazil.
+- **Revenue Gap**: Magist’s total revenue remains small compared to Eniac’s expectations, suggesting that Eniac may need to temper its financial projections if partnering with Magist.
 
-- **Customer Satisfaction**: Magist's services have generally received positive reviews, with an average rating of 4.1 out of 5. This suggests a strong base of satisfied customers, although there are isolated complaints about delivery issues and product defects. These reviews indicate that while Magist has a good reputation, there are still potential risks in customer experience that Eniac needs to consider.
+- **Geographical Sales Disparities**: Magist’s sales are heavily concentrated in wealthier regions like São Paulo and Rio de Janeiro, while northern regions see significantly lower sales, posing a challenge for nationwide expansion.
 
-- **Final Conclusion**: Our study concludes that while partnering with Magist could be beneficial, skalability concerns lead to the advise that alternatives like Mercado Libre, Novatrade, or the fulfillment services of bigger players like Amazon or Shopify should be considered beforehand.
+- **Logistical Challenges**: Delivery times are acceptable in major cities but can extend up to 30 days in remote areas, potentially compromising Eniac's commitment to fast shipping.
+
+- **Customer Feedback**: While Magist enjoys a solid reputation with an average customer rating of 4.1/5, occasional delivery and product issues highlight areas for improvement in customer experience.
+
+-----
+
+## Final conclusion
+
+Our study concludes that while partnering with Magist could be beneficial, skalability concerns lead to the advise that alternatives like Mercado Libre, Novatrade, or the fulfillment services of bigger players like Amazon or Shopify should be considered before signing binding contracts with Magist.
